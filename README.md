@@ -1,5 +1,3 @@
-# victordeassis.github.io
+# Firebase + AngularJS Product List Application
 
-# Firebase + AngularJS Application
-
-# This application was made for study about using the new Google Firebase and it's features
+This application was made for study about using the new Google Firebase and it's features
